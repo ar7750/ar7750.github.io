@@ -28,10 +28,10 @@
  */
 
 var rules = {
-	],
+  ],
   "~*x food ~*y": [
     "I am not your mom",
-   ],
+  ],
   "~*x hello ~*y": [
     "How do you do. Please state your problem."
   ],
